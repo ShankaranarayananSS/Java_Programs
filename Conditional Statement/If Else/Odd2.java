@@ -9,9 +9,9 @@ public class Odd2{
     int n = sc.nextInt();
     
     if(n%2==1){
-      System.out.printf("Odd");
+      System.out.print("Odd");
     }else{
-      System.out.printf("Even");
+      System.out.print("Even");
     }
     sc.close();
   }
