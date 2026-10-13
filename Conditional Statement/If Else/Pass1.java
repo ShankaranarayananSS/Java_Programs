@@ -1,0 +1,18 @@
+//Pass Or Fail - Version 1
+
+import java.util.Scanner;
+
+public class Pass1{
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter mark:");
+    int mark = sc.nextInt();
+    
+    if(mark>=40){
+      System.out.print("Pass");
+    }else{
+      System.out.print("Fail");
+    }
+    sc.close();
+  }
+}
