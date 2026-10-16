@@ -5,6 +5,6 @@ public class Inc2{
     
     //Displays "i" value first, then increases it
     System.out.println("Step 1 = " + (i++));
-    System.out.println("Step 1 = " + i);
+    System.out.println("Step 2 = " + i);
   }
 }
