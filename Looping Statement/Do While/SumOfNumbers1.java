@@ -1,4 +1,4 @@
-//Sum of N Odd Numbers
+//Sum of N Numbers
 
 import java.util.Scanner;
 
