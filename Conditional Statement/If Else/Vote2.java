@@ -9,7 +9,7 @@ public class Vote2{
     int age = sc.nextInt();
     
     if(age<18){
-      System.out.print("Not Eligible");
+      System.out.print("Not eligible");
     }else{
       System.out.print("Eligible");
     }
