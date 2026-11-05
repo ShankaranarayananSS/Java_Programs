@@ -1,4 +1,4 @@
-//Biggest of Two Numbers
+//Biggest Of Two Numbers
 
 import java.util.Scanner;
 
