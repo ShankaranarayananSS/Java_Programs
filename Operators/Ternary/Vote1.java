@@ -8,7 +8,7 @@ public class Vote1{
     System.out.print("Enter age:");
     int age = sc.nextInt();
     
-    String result = (age>=18)?"Eligible":"Not Eligible";
+    String result = (age>=18)?"Eligible":"Not eligible";
     System.out.print(result);
     sc.close();
   }
